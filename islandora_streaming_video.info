@@ -1,0 +1,5 @@
+name = Islandora Streaming Video Solution Pack
+description = An alternate video content model, allowing the PROXY_MP4 (display) datastream to be a streaming URL.
+dependencies[] = islandora
+package = Islandora Solution Packs
+core = 7.x
